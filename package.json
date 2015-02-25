@@ -1,0 +1,24 @@
+{
+  "name": "johnny-helloworld",
+  "version": "1.0.0",
+  "description": "A simple test of the Johnny Five framework talking to an Arduino board.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitchdenny/johnny-helloworld.git"
+  },
+  "author": "Mitch Denny <mitch@mitchdenny.com> (http://mitchdenny.com/)",
+  "license": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/mitchdenny/johnny-helloworld/issues"
+  },
+  "homepage": "https://github.com/mitchdenny/johnny-helloworld"
+}
